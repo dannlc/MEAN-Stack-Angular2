@@ -1,0 +1,29 @@
+{
+  "name": "mea2nexcercise",
+  "version": "1.0.0",
+  "description": "MEAN stACK con angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannlc/MEAN-Stack-Angular2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "angular",
+    "2"
+  ],
+  "author": "Daniel Corbalan <danncorbalan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannlc/MEAN-Stack-Angular2/issues"
+  },
+  "homepage": "https://github.com/dannlc/MEAN-Stack-Angular2#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.4"
+  }
+}
